@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "Main01"
-  s.version      = "0.1.0"
+  s.version      = "0.2.0"
     s.author             = { "gaozhihong" => "291305571@qq.com" }
   s.summary      = "A short description of Main."
   s.description  = "Main01"
